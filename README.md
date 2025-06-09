@@ -5,7 +5,7 @@
 
 You are tasked with designing a lightweight automation system that monitors unpaid invoices and triggers a smart, multi-step dunning (payment reminder) process.
 
-This challenge is designed to test how you think, structure systems, and prioritize pragmatically – not how flashy your code is. We value clarity, scalability, and reasoning.
+This challenge is designed to test how you think, structure systems, and prioritize pragmatically – not how flashy your code is. We value clarity, creativity and reasoning.
 
 ---
 
