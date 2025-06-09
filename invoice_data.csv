@@ -1,0 +1,6 @@
+customer_name,invoice_number,amount,due_date,payment_received
+Meier GmbH,2024-001,1250€,2025-05-30,False
+Techflow AG,2024-002,3200€,2025-06-05,False
+Luna Ventures,2024-003,850€,2025-05-25,True
+GreenIT,2024-004,5600€,2025-06-11,False
+BauPlan GmbH,2024-005,430€,2025-05-19,False

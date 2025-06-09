@@ -1,0 +1,5 @@
+{"customer_name":"Meier GmbH","invoice_number":"2024-001","amount":"1250\u20ac","due_date":"2025-05-30","payment_received":false}
+{"customer_name":"Techflow AG","invoice_number":"2024-002","amount":"3200\u20ac","due_date":"2025-06-05","payment_received":false}
+{"customer_name":"Luna Ventures","invoice_number":"2024-003","amount":"850\u20ac","due_date":"2025-05-25","payment_received":true}
+{"customer_name":"GreenIT","invoice_number":"2024-004","amount":"5600\u20ac","due_date":"2025-06-11","payment_received":false}
+{"customer_name":"BauPlan GmbH","invoice_number":"2024-005","amount":"430\u20ac","due_date":"2025-05-19","payment_received":false}
