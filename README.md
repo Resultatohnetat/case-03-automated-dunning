@@ -67,7 +67,7 @@ Please spend no more than **90 minutes** on this case.
 ##  Submission
 
 - Share your solution as a zipped folder.
-- Include your Video, along with any relevant scripts, code, or diagrams.
+- Include your Video, along with any relevant scripts, code, or diagrams. Your Video can be a Link to a Google Drive folder with permission to download.
 - Use OBS Studio (https://obsproject.com/) to record your screen and voice while you work. This gives us insight into your thinking and decision-making process – no need for polish, just be yourself.
 - Submit your solution as soon as possible, but no later than Friday, 8:00 PM (GMT+2).
 
