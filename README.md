@@ -66,8 +66,9 @@ Please spend no more than **90 minutes** on this case.
 
 ##  Submission
 
-- Create a public GitHub repo or share a zipped folder
-- Include your answers and any relevant scripts or diagrams
-- Add a short README explaining what you built
+- Share your solution as a zipped folder.
+- Include your Video, along with any relevant scripts, code, or diagrams.
+- Use OBS Studio (https://obsproject.com/) to record your screen and voice while you work. This gives us insight into your thinking and decision-making process – no need for polish, just be yourself.
+- Submit your solution as soon as possible, but no later than Friday, 8:00 PM (GMT+2).
 
 We’re excited to see how you approach this!
