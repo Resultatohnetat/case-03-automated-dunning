@@ -1,6 +1,101 @@
 customer_name,invoice_number,amount,due_date,payment_received
-Meier GmbH,2024-001,1250€,2025-05-30,False
-Techflow AG,2024-002,3200€,2025-06-05,False
-Luna Ventures,2024-003,850€,2025-05-25,True
-GreenIT,2024-004,5600€,2025-06-11,False
-BauPlan GmbH,2024-005,430€,2025-05-19,False
+Dowerg Schüler KG,2024-896,1826€,2025-05-13,True
+Davids Stiftung & Co. KG,2024-936,3679€,2025-06-02,True
+Weinhold Gutknecht GmbH & Co. OHG,2024-349,3958€,2025-06-02,True
+Hänel,2024-681,5236€,2025-06-09,False
+Krause AG,2024-983,435€,2025-05-21,True
+Franke OHG mbH,2024-568,3751€,2025-06-05,False
+Hänel,2024-724,2840€,2025-06-13,True
+Wohlgemut Renner KG,2024-189,6788€,2025-06-07,False
+Misicher Stiftung & Co. KGaA,2024-283,5734€,2025-06-05,True
+Holzapfel AG & Co. OHG,2024-639,482€,2025-06-03,True
+Textor e.G.,2024-497,3583€,2025-05-20,True
+Stahr GmbH & Co. OHG,2024-815,1505€,2025-06-11,True
+Eberth GmbH & Co. KG,2024-507,4607€,2025-05-31,True
+Scheuermann Hiller AG,2024-787,4098€,2025-05-11,True
+Harloff,2024-130,778€,2025-05-25,True
+Rohleder Schäfer GmbH,2024-223,3737€,2025-06-08,True
+Schenk,2024-901,6440€,2025-06-03,False
+Franke Rädel GmbH & Co. OHG,2024-747,645€,2025-06-16,True
+van der Dussen,2024-294,1261€,2025-06-06,False
+Ladeck GmbH,2024-421,1679€,2025-06-09,False
+Bärer AG & Co. KGaA,2024-814,5367€,2025-06-17,False
+Bruder e.G.,2024-877,4940€,2025-05-16,True
+Hauffer Gutknecht GmbH & Co. KG,2024-919,1840€,2025-05-31,True
+Meister e.G.,2024-803,2179€,2025-05-20,False
+Ebert,2024-279,3491€,2025-05-20,False
+Ehlert,2024-758,5629€,2025-05-11,False
+Zorbach KGaA,2024-799,1859€,2025-06-03,False
+Segebahn GmbH & Co. KGaA,2024-743,1587€,2025-05-30,True
+Henk AG & Co. KGaA,2024-587,2973€,2025-05-14,True
+Martin Finke AG & Co. OHG,2024-772,1803€,2025-06-11,True
+Meister Hesse GmbH,2024-847,5587€,2025-06-03,True
+Ziegert,2024-683,5645€,2025-06-19,True
+Zänker GmbH,2024-727,2732€,2025-05-21,True
+Sager Heidrich GmbH & Co. KG,2024-723,6015€,2025-05-25,True
+Schleich Langern GmbH,2024-551,6162€,2025-05-27,False
+Rogge,2024-674,4270€,2025-06-09,True
+Klapp,2024-488,1004€,2025-05-15,True
+Paffrath Gorlitz KG,2024-456,5389€,2025-06-10,False
+Holt Ehlert e.V.,2024-864,3245€,2025-06-09,False
+Geisel,2024-171,2327€,2025-05-13,True
+Neureuther Rörricht GbR,2024-372,750€,2025-05-24,True
+Scheel Löffler AG & Co. KGaA,2024-984,3647€,2025-06-15,False
+Röhrdanz KG,2024-804,6980€,2025-06-09,True
+Säuberlich,2024-756,3740€,2025-05-26,False
+Staude Haering GmbH,2024-502,6408€,2025-05-17,False
+Sorgatz Buchholz GmbH & Co. KG,2024-141,781€,2025-05-31,True
+Sölzer Hamann Stiftung & Co. KGaA,2024-889,4530€,2025-06-14,False
+Höfig Bender GmbH & Co. OHG,2024-873,1520€,2025-06-04,True
+Hertrampf Hering GmbH & Co. KG,2024-395,2832€,2025-06-07,False
+Scholtz,2024-823,6572€,2025-05-29,False
+Franke,2024-824,559€,2025-06-03,False
+Mentzel Kostolzin e.V.,2024-562,2963€,2025-05-17,False
+Barth Thanel AG & Co. KGaA,2024-108,1903€,2025-05-23,True
+Weimer Schleich AG,2024-314,2834€,2025-06-11,True
+Mende Ebert GmbH & Co. KG,2024-314,2873€,2025-05-18,False
+Hübel GmbH & Co. KG,2024-610,3681€,2025-05-25,True
+Pölitz e.G.,2024-935,5991€,2025-05-25,True
+Herrmann e.G.,2024-465,5990€,2025-06-11,False
+Langern,2024-895,6368€,2025-06-10,False
+Loos,2024-801,1543€,2025-06-01,False
+Lorch GbR,2024-144,5333€,2025-05-17,False
+Koch II GbR,2024-236,2146€,2025-06-17,False
+Nette,2024-991,1665€,2025-05-19,False
+Jopich Kostolzin AG,2024-434,2326€,2025-05-27,True
+Lorch Rogge AG,2024-923,2459€,2025-05-21,False
+Kranz Ladeck KG,2024-802,4681€,2025-05-26,True
+Hornich Kostolzin GmbH & Co. KGaA,2024-433,2330€,2025-05-26,True
+Mosemann,2024-837,996€,2025-06-07,True
+Jäntsch Möchlichen AG & Co. KG,2024-964,5300€,2025-05-29,True
+Hartung GmbH,2024-425,1654€,2025-05-16,True
+Hermann AG,2024-528,4660€,2025-06-14,True
+Klapp Pergande GmbH & Co. KG,2024-574,5573€,2025-05-30,False
+Davids Jüttner Stiftung & Co. KGaA,2024-829,5285€,2025-05-28,True
+Jäntsch Beyer Stiftung & Co. KG,2024-594,5315€,2025-05-11,True
+Jähn AG & Co. KGaA,2024-187,2968€,2025-06-15,True
+Geisler Stiftung & Co. KGaA,2024-490,363€,2025-06-01,False
+Riehl AG & Co. KG,2024-777,2233€,2025-06-13,True
+Scheuermann GmbH & Co. KG,2024-605,701€,2025-05-29,False
+Kohl,2024-230,4891€,2025-06-14,False
+Renner,2024-662,5451€,2025-05-16,False
+Drewes,2024-517,4477€,2025-05-12,True
+Klapp,2024-431,2546€,2025-05-18,True
+Rörricht,2024-438,3421€,2025-06-03,False
+Klapp Heinz GmbH & Co. KG,2024-633,4533€,2025-05-29,False
+Zahn Lindner GmbH,2024-681,2625€,2025-05-13,False
+Mentzel e.G.,2024-243,455€,2025-06-14,False
+Niemeier,2024-102,417€,2025-05-12,True
+Hettner Stumpf e.G.,2024-998,3626€,2025-06-11,False
+Wernecke,2024-948,1646€,2025-05-12,True
+Putz Lindau GmbH & Co. KG,2024-898,4601€,2025-06-12,False
+Mude,2024-703,2971€,2025-06-05,False
+Kaul,2024-975,5325€,2025-06-08,True
+Jäntsch Hofmann KG,2024-504,4288€,2025-05-21,False
+Bohlander,2024-835,2122€,2025-06-14,False
+Zobel Geisel GmbH,2024-474,6446€,2025-06-03,True
+Hölzenbecher Drub Stiftung & Co. KGaA,2024-586,3633€,2025-05-30,True
+Bachmann OHG mbH,2024-706,5377€,2025-05-15,False
+Loos Stiftung & Co. KGaA,2024-719,5340€,2025-06-04,True
+Knappe Rädel AG,2024-644,3434€,2025-05-17,True
+Wulff,2024-626,5341€,2025-06-03,True

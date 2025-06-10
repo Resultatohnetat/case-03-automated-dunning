@@ -1,5 +1,100 @@
-{"customer_name":"Meier GmbH","invoice_number":"2024-001","amount":"1250\u20ac","due_date":"2025-05-30","payment_received":false}
-{"customer_name":"Techflow AG","invoice_number":"2024-002","amount":"3200\u20ac","due_date":"2025-06-05","payment_received":false}
-{"customer_name":"Luna Ventures","invoice_number":"2024-003","amount":"850\u20ac","due_date":"2025-05-25","payment_received":true}
-{"customer_name":"GreenIT","invoice_number":"2024-004","amount":"5600\u20ac","due_date":"2025-06-11","payment_received":false}
-{"customer_name":"BauPlan GmbH","invoice_number":"2024-005","amount":"430\u20ac","due_date":"2025-05-19","payment_received":false}
+{"customer_name":"Dowerg Sch\u00fcler KG","invoice_number":"2024-896","amount":"1826\u20ac","due_date":"2025-05-13","payment_received":true}
+{"customer_name":"Davids Stiftung & Co. KG","invoice_number":"2024-936","amount":"3679\u20ac","due_date":"2025-06-02","payment_received":true}
+{"customer_name":"Weinhold Gutknecht GmbH & Co. OHG","invoice_number":"2024-349","amount":"3958\u20ac","due_date":"2025-06-02","payment_received":true}
+{"customer_name":"H\u00e4nel","invoice_number":"2024-681","amount":"5236\u20ac","due_date":"2025-06-09","payment_received":false}
+{"customer_name":"Krause AG","invoice_number":"2024-983","amount":"435\u20ac","due_date":"2025-05-21","payment_received":true}
+{"customer_name":"Franke OHG mbH","invoice_number":"2024-568","amount":"3751\u20ac","due_date":"2025-06-05","payment_received":false}
+{"customer_name":"H\u00e4nel","invoice_number":"2024-724","amount":"2840\u20ac","due_date":"2025-06-13","payment_received":true}
+{"customer_name":"Wohlgemut Renner KG","invoice_number":"2024-189","amount":"6788\u20ac","due_date":"2025-06-07","payment_received":false}
+{"customer_name":"Misicher Stiftung & Co. KGaA","invoice_number":"2024-283","amount":"5734\u20ac","due_date":"2025-06-05","payment_received":true}
+{"customer_name":"Holzapfel AG & Co. OHG","invoice_number":"2024-639","amount":"482\u20ac","due_date":"2025-06-03","payment_received":true}
+{"customer_name":"Textor e.G.","invoice_number":"2024-497","amount":"3583\u20ac","due_date":"2025-05-20","payment_received":true}
+{"customer_name":"Stahr GmbH & Co. OHG","invoice_number":"2024-815","amount":"1505\u20ac","due_date":"2025-06-11","payment_received":true}
+{"customer_name":"Eberth GmbH & Co. KG","invoice_number":"2024-507","amount":"4607\u20ac","due_date":"2025-05-31","payment_received":true}
+{"customer_name":"Scheuermann Hiller AG","invoice_number":"2024-787","amount":"4098\u20ac","due_date":"2025-05-11","payment_received":true}
+{"customer_name":"Harloff","invoice_number":"2024-130","amount":"778\u20ac","due_date":"2025-05-25","payment_received":true}
+{"customer_name":"Rohleder Sch\u00e4fer GmbH","invoice_number":"2024-223","amount":"3737\u20ac","due_date":"2025-06-08","payment_received":true}
+{"customer_name":"Schenk","invoice_number":"2024-901","amount":"6440\u20ac","due_date":"2025-06-03","payment_received":false}
+{"customer_name":"Franke R\u00e4del GmbH & Co. OHG","invoice_number":"2024-747","amount":"645\u20ac","due_date":"2025-06-16","payment_received":true}
+{"customer_name":"van der Dussen","invoice_number":"2024-294","amount":"1261\u20ac","due_date":"2025-06-06","payment_received":false}
+{"customer_name":"Ladeck GmbH","invoice_number":"2024-421","amount":"1679\u20ac","due_date":"2025-06-09","payment_received":false}
+{"customer_name":"B\u00e4rer AG & Co. KGaA","invoice_number":"2024-814","amount":"5367\u20ac","due_date":"2025-06-17","payment_received":false}
+{"customer_name":"Bruder e.G.","invoice_number":"2024-877","amount":"4940\u20ac","due_date":"2025-05-16","payment_received":true}
+{"customer_name":"Hauffer Gutknecht GmbH & Co. KG","invoice_number":"2024-919","amount":"1840\u20ac","due_date":"2025-05-31","payment_received":true}
+{"customer_name":"Meister e.G.","invoice_number":"2024-803","amount":"2179\u20ac","due_date":"2025-05-20","payment_received":false}
+{"customer_name":"Ebert","invoice_number":"2024-279","amount":"3491\u20ac","due_date":"2025-05-20","payment_received":false}
+{"customer_name":"Ehlert","invoice_number":"2024-758","amount":"5629\u20ac","due_date":"2025-05-11","payment_received":false}
+{"customer_name":"Zorbach KGaA","invoice_number":"2024-799","amount":"1859\u20ac","due_date":"2025-06-03","payment_received":false}
+{"customer_name":"Segebahn GmbH & Co. KGaA","invoice_number":"2024-743","amount":"1587\u20ac","due_date":"2025-05-30","payment_received":true}
+{"customer_name":"Henk AG & Co. KGaA","invoice_number":"2024-587","amount":"2973\u20ac","due_date":"2025-05-14","payment_received":true}
+{"customer_name":"Martin Finke AG & Co. OHG","invoice_number":"2024-772","amount":"1803\u20ac","due_date":"2025-06-11","payment_received":true}
+{"customer_name":"Meister Hesse GmbH","invoice_number":"2024-847","amount":"5587\u20ac","due_date":"2025-06-03","payment_received":true}
+{"customer_name":"Ziegert","invoice_number":"2024-683","amount":"5645\u20ac","due_date":"2025-06-19","payment_received":true}
+{"customer_name":"Z\u00e4nker GmbH","invoice_number":"2024-727","amount":"2732\u20ac","due_date":"2025-05-21","payment_received":true}
+{"customer_name":"Sager Heidrich GmbH & Co. KG","invoice_number":"2024-723","amount":"6015\u20ac","due_date":"2025-05-25","payment_received":true}
+{"customer_name":"Schleich Langern GmbH","invoice_number":"2024-551","amount":"6162\u20ac","due_date":"2025-05-27","payment_received":false}
+{"customer_name":"Rogge","invoice_number":"2024-674","amount":"4270\u20ac","due_date":"2025-06-09","payment_received":true}
+{"customer_name":"Klapp","invoice_number":"2024-488","amount":"1004\u20ac","due_date":"2025-05-15","payment_received":true}
+{"customer_name":"Paffrath Gorlitz KG","invoice_number":"2024-456","amount":"5389\u20ac","due_date":"2025-06-10","payment_received":false}
+{"customer_name":"Holt Ehlert e.V.","invoice_number":"2024-864","amount":"3245\u20ac","due_date":"2025-06-09","payment_received":false}
+{"customer_name":"Geisel","invoice_number":"2024-171","amount":"2327\u20ac","due_date":"2025-05-13","payment_received":true}
+{"customer_name":"Neureuther R\u00f6rricht GbR","invoice_number":"2024-372","amount":"750\u20ac","due_date":"2025-05-24","payment_received":true}
+{"customer_name":"Scheel L\u00f6ffler AG & Co. KGaA","invoice_number":"2024-984","amount":"3647\u20ac","due_date":"2025-06-15","payment_received":false}
+{"customer_name":"R\u00f6hrdanz KG","invoice_number":"2024-804","amount":"6980\u20ac","due_date":"2025-06-09","payment_received":true}
+{"customer_name":"S\u00e4uberlich","invoice_number":"2024-756","amount":"3740\u20ac","due_date":"2025-05-26","payment_received":false}
+{"customer_name":"Staude Haering GmbH","invoice_number":"2024-502","amount":"6408\u20ac","due_date":"2025-05-17","payment_received":false}
+{"customer_name":"Sorgatz Buchholz GmbH & Co. KG","invoice_number":"2024-141","amount":"781\u20ac","due_date":"2025-05-31","payment_received":true}
+{"customer_name":"S\u00f6lzer Hamann Stiftung & Co. KGaA","invoice_number":"2024-889","amount":"4530\u20ac","due_date":"2025-06-14","payment_received":false}
+{"customer_name":"H\u00f6fig Bender GmbH & Co. OHG","invoice_number":"2024-873","amount":"1520\u20ac","due_date":"2025-06-04","payment_received":true}
+{"customer_name":"Hertrampf Hering GmbH & Co. KG","invoice_number":"2024-395","amount":"2832\u20ac","due_date":"2025-06-07","payment_received":false}
+{"customer_name":"Scholtz","invoice_number":"2024-823","amount":"6572\u20ac","due_date":"2025-05-29","payment_received":false}
+{"customer_name":"Franke","invoice_number":"2024-824","amount":"559\u20ac","due_date":"2025-06-03","payment_received":false}
+{"customer_name":"Mentzel Kostolzin e.V.","invoice_number":"2024-562","amount":"2963\u20ac","due_date":"2025-05-17","payment_received":false}
+{"customer_name":"Barth Thanel AG & Co. KGaA","invoice_number":"2024-108","amount":"1903\u20ac","due_date":"2025-05-23","payment_received":true}
+{"customer_name":"Weimer Schleich AG","invoice_number":"2024-314","amount":"2834\u20ac","due_date":"2025-06-11","payment_received":true}
+{"customer_name":"Mende Ebert GmbH & Co. KG","invoice_number":"2024-314","amount":"2873\u20ac","due_date":"2025-05-18","payment_received":false}
+{"customer_name":"H\u00fcbel GmbH & Co. KG","invoice_number":"2024-610","amount":"3681\u20ac","due_date":"2025-05-25","payment_received":true}
+{"customer_name":"P\u00f6litz e.G.","invoice_number":"2024-935","amount":"5991\u20ac","due_date":"2025-05-25","payment_received":true}
+{"customer_name":"Herrmann e.G.","invoice_number":"2024-465","amount":"5990\u20ac","due_date":"2025-06-11","payment_received":false}
+{"customer_name":"Langern","invoice_number":"2024-895","amount":"6368\u20ac","due_date":"2025-06-10","payment_received":false}
+{"customer_name":"Loos","invoice_number":"2024-801","amount":"1543\u20ac","due_date":"2025-06-01","payment_received":false}
+{"customer_name":"Lorch GbR","invoice_number":"2024-144","amount":"5333\u20ac","due_date":"2025-05-17","payment_received":false}
+{"customer_name":"Koch II GbR","invoice_number":"2024-236","amount":"2146\u20ac","due_date":"2025-06-17","payment_received":false}
+{"customer_name":"Nette","invoice_number":"2024-991","amount":"1665\u20ac","due_date":"2025-05-19","payment_received":false}
+{"customer_name":"Jopich Kostolzin AG","invoice_number":"2024-434","amount":"2326\u20ac","due_date":"2025-05-27","payment_received":true}
+{"customer_name":"Lorch Rogge AG","invoice_number":"2024-923","amount":"2459\u20ac","due_date":"2025-05-21","payment_received":false}
+{"customer_name":"Kranz Ladeck KG","invoice_number":"2024-802","amount":"4681\u20ac","due_date":"2025-05-26","payment_received":true}
+{"customer_name":"Hornich Kostolzin GmbH & Co. KGaA","invoice_number":"2024-433","amount":"2330\u20ac","due_date":"2025-05-26","payment_received":true}
+{"customer_name":"Mosemann","invoice_number":"2024-837","amount":"996\u20ac","due_date":"2025-06-07","payment_received":true}
+{"customer_name":"J\u00e4ntsch M\u00f6chlichen AG & Co. KG","invoice_number":"2024-964","amount":"5300\u20ac","due_date":"2025-05-29","payment_received":true}
+{"customer_name":"Hartung GmbH","invoice_number":"2024-425","amount":"1654\u20ac","due_date":"2025-05-16","payment_received":true}
+{"customer_name":"Hermann AG","invoice_number":"2024-528","amount":"4660\u20ac","due_date":"2025-06-14","payment_received":true}
+{"customer_name":"Klapp Pergande GmbH & Co. KG","invoice_number":"2024-574","amount":"5573\u20ac","due_date":"2025-05-30","payment_received":false}
+{"customer_name":"Davids J\u00fcttner Stiftung & Co. KGaA","invoice_number":"2024-829","amount":"5285\u20ac","due_date":"2025-05-28","payment_received":true}
+{"customer_name":"J\u00e4ntsch Beyer Stiftung & Co. KG","invoice_number":"2024-594","amount":"5315\u20ac","due_date":"2025-05-11","payment_received":true}
+{"customer_name":"J\u00e4hn AG & Co. KGaA","invoice_number":"2024-187","amount":"2968\u20ac","due_date":"2025-06-15","payment_received":true}
+{"customer_name":"Geisler Stiftung & Co. KGaA","invoice_number":"2024-490","amount":"363\u20ac","due_date":"2025-06-01","payment_received":false}
+{"customer_name":"Riehl AG & Co. KG","invoice_number":"2024-777","amount":"2233\u20ac","due_date":"2025-06-13","payment_received":true}
+{"customer_name":"Scheuermann GmbH & Co. KG","invoice_number":"2024-605","amount":"701\u20ac","due_date":"2025-05-29","payment_received":false}
+{"customer_name":"Kohl","invoice_number":"2024-230","amount":"4891\u20ac","due_date":"2025-06-14","payment_received":false}
+{"customer_name":"Renner","invoice_number":"2024-662","amount":"5451\u20ac","due_date":"2025-05-16","payment_received":false}
+{"customer_name":"Drewes","invoice_number":"2024-517","amount":"4477\u20ac","due_date":"2025-05-12","payment_received":true}
+{"customer_name":"Klapp","invoice_number":"2024-431","amount":"2546\u20ac","due_date":"2025-05-18","payment_received":true}
+{"customer_name":"R\u00f6rricht","invoice_number":"2024-438","amount":"3421\u20ac","due_date":"2025-06-03","payment_received":false}
+{"customer_name":"Klapp Heinz GmbH & Co. KG","invoice_number":"2024-633","amount":"4533\u20ac","due_date":"2025-05-29","payment_received":false}
+{"customer_name":"Zahn Lindner GmbH","invoice_number":"2024-681","amount":"2625\u20ac","due_date":"2025-05-13","payment_received":false}
+{"customer_name":"Mentzel e.G.","invoice_number":"2024-243","amount":"455\u20ac","due_date":"2025-06-14","payment_received":false}
+{"customer_name":"Niemeier","invoice_number":"2024-102","amount":"417\u20ac","due_date":"2025-05-12","payment_received":true}
+{"customer_name":"Hettner Stumpf e.G.","invoice_number":"2024-998","amount":"3626\u20ac","due_date":"2025-06-11","payment_received":false}
+{"customer_name":"Wernecke","invoice_number":"2024-948","amount":"1646\u20ac","due_date":"2025-05-12","payment_received":true}
+{"customer_name":"Putz Lindau GmbH & Co. KG","invoice_number":"2024-898","amount":"4601\u20ac","due_date":"2025-06-12","payment_received":false}
+{"customer_name":"Mude","invoice_number":"2024-703","amount":"2971\u20ac","due_date":"2025-06-05","payment_received":false}
+{"customer_name":"Kaul","invoice_number":"2024-975","amount":"5325\u20ac","due_date":"2025-06-08","payment_received":true}
+{"customer_name":"J\u00e4ntsch Hofmann KG","invoice_number":"2024-504","amount":"4288\u20ac","due_date":"2025-05-21","payment_received":false}
+{"customer_name":"Bohlander","invoice_number":"2024-835","amount":"2122\u20ac","due_date":"2025-06-14","payment_received":false}
+{"customer_name":"Zobel Geisel GmbH","invoice_number":"2024-474","amount":"6446\u20ac","due_date":"2025-06-03","payment_received":true}
+{"customer_name":"H\u00f6lzenbecher Drub Stiftung & Co. KGaA","invoice_number":"2024-586","amount":"3633\u20ac","due_date":"2025-05-30","payment_received":true}
+{"customer_name":"Bachmann OHG mbH","invoice_number":"2024-706","amount":"5377\u20ac","due_date":"2025-05-15","payment_received":false}
+{"customer_name":"Loos Stiftung & Co. KGaA","invoice_number":"2024-719","amount":"5340\u20ac","due_date":"2025-06-04","payment_received":true}
+{"customer_name":"Knappe R\u00e4del AG","invoice_number":"2024-644","amount":"3434\u20ac","due_date":"2025-05-17","payment_received":true}
+{"customer_name":"Wulff","invoice_number":"2024-626","amount":"5341\u20ac","due_date":"2025-06-03","payment_received":true}
